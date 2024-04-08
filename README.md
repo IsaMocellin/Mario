@@ -2,6 +2,8 @@
 
 Mario Jump é um simples jogo em HTML, CSS e JavaScript, onde o jogador controla o Mario para pular sobre canos. O objetivo é evitar os obstáculos e manter o Mario vivo o maior tempo possível.
 
+![Mario demonstration gif](https://github.com/IsaMocellin/Mario/assets/131546311/3993dc67-6e73-4a77-8771-f09e3a752c6e)
+
 🎮 ## Como Jogar 🕹️
 
 1. Abra o arquivo `index.html` em seu navegador.
